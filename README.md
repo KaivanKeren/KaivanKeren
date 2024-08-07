@@ -11,15 +11,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on web dev
 
 ## 📈 GitHub Stats
 
-![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaivanKeren&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical&include_all_commits=true&custom_title=My%20GitHub%20Stats)
+![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaivanKeren&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical&include_all_commits=true&custom_title=My%20GitHub%20Stats&border_radius=10)
 
 ## 🚀 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaivanKeren&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaivanKeren&layout=compact&theme=radical&border_radius=10)
 
 ## 🌟 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaivanKeren&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaivanKeren&theme=radical&border_radius=10)
 
 ## 📬 Contact
 
