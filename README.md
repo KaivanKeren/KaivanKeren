@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on web dev
 - **Languages:** JavaScript, TypeScript, PHP, Python
 - **Frameworks & Libraries:** React, Laravel, Express.js, Chakra UI, Tailwind CSS
 - **Databases:** Supabase, MySQL, PostgreSQL
-- **Tools:** Git, Docker, Vagrant, Pygame
+- **Tools:** Git, Docker
 
 ## 🌟 Current Projects
 
@@ -19,21 +19,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on web dev
 
 ![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismail&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
 
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/ismail)
-- [Twitter](https://twitter.com/ismail)
-- [Website](https://ismail.dev)
-
-## 📚 Blog Posts
-
-- [Creating Modular Routes in Express.js](https://example.com/blog/express-modular-routes)
-- [Managing User Roles in Laravel](https://example.com/blog/laravel-user-roles)
-- [Building a Maze Game with Pygame](https://example.com/blog/pygame-maze-game)
 
 ## 📬 Contact
 
-Feel free to reach out to me via [email](mailto:ismail@example.com) for any collaborations or inquiries.
+Feel free to reach out to me via [email](mailto:x.iml.7122@gmail.com) for any collaborations or inquiries.
 
 ---
 
