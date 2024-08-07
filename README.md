@@ -51,13 +51,6 @@ I'm a passionate developer with a focus on web development and a keen interest i
 
 ---
 
-### :writing_hand: Latest Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### :mailbox: Get in Touch :
 
 <div align="center">
