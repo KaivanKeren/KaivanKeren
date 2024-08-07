@@ -45,7 +45,7 @@ I'm a passionate developer with a focus on web development and a keen interest i
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaivanKeren&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KaivanKeren&theme=tokyonight&currStreakNum=0309EB&background=45%2C000000%2C08004D&border=2E2DEB&ring=1200FF)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaivanKeren&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
