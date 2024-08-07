@@ -2,8 +2,7 @@
 
 # My Stats
 
-[![](https://raw.githubusercontent.com/your-username/github-profile-summary-cards/KaivanKeren/0-profile-details.svg)](https://github.com/your-username/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/your-username/github-profile-summary-cards/KaivanKeren/1-repos-per-language.svg)](https://github.com/your-username/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/your-username/github-profile-summary-cards/KaivanKeren/2-most-commit-language.svg)](https://github.com/your-username/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/your-username/github-profile-summary-cards/KaivanKeren/3-stats.svg)](https://github.com/your-username/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/your-username/github-profile-summary-cards/KaivanKeren/4-productive-time.svg)](https://github.com/your-username/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/KaivanKeren/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/KaivanKeren/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KaivanKeren/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/KaivanKeren/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KaivanKeren/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/KaivanKeren/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KaivanKeren/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/KaivanKeren/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KaivanKeren/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/KaivanKeren/github-profile-summary-cards)
