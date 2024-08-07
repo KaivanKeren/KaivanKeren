@@ -9,16 +9,20 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on web dev
 - **Databases:** Supabase, MySQL, PostgreSQL
 - **Tools:** Git, Docker
 
-## 🌟 Current Projects
-
-- **Express.js Application:** Modularizing and optimizing routes.
-- **Laravel Project:** Managing user roles and permissions with Spatie's Laravel Permission package and Inertia.js.
-- **Maze Game in Python:** Developing a maze game with increasing difficulty using Pygame.
-
 ## 📈 GitHub Stats
 
-![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismail&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
+<!-- GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismail&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical&include_all_commits=true&custom_title=My%20GitHub%20Stats" alt="Ismail's GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismail&theme=radical" alt="GitHub Streak" width="45%" />
+</p>
 
+## 🌐 Most Used Languages
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
 ## 📬 Contact
 
