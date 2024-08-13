@@ -76,7 +76,7 @@ I'm a passionate developer with a focus on web development and a keen interest i
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=KaivanKeren&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KaivanKeren&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=KaivanKeren&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaaivanKeren&theme=onedark" />
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaivanKeren&theme=onedark" />
 </div>
 ---
 
