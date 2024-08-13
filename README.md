@@ -35,7 +35,7 @@ I'm a passionate developer with a focus on web development and a keen interest i
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="30" alt="vue logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
   <img width="12" />
@@ -66,10 +66,6 @@ I'm a passionate developer with a focus on web development and a keen interest i
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/photoshop/photoshop-original" height="30" alt="photoshop logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/illustrator/illustrator-original" height="30" alt="illustrator logo"  /></code>
 </div>
 
 ---
