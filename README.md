@@ -46,6 +46,8 @@ I'm a passionate developer with a focus on web development and a keen interest i
 </div>
 
 ---
+![Snake animation](https://raw.githubusercontent.com/KaivanKeren/KaivanKeren/output/github-contribution-grid-snake-dark.svg)
+---
 
 ### :fire: My Stats :
 
