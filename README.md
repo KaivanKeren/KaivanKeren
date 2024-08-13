@@ -47,12 +47,6 @@ I'm a passionate developer with a focus on web development and a keen interest i
 
 ---
 
-### Snake :
-
-https://raw.githubusercontent.com/KaivanKeren/KaivanKeren/output/github-contribution-grid-snake-dark.svg
-
----
-
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KaivanKeren&theme=tokyonight&currStreakNum=0309EB&background=45%2C000000%2C08004D&border=2E2DEB&ring=1200FF)](https://git.io/streak-stats)
