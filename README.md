@@ -84,6 +84,7 @@ I'm a passionate developer with a focus on web development and a keen interest i
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=KaivanKeren&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=KaivanKeren&theme=onedark" />
 </div>
+
 ---
 
 ### :mailbox: Get in Touch :
