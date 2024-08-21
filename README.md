@@ -87,6 +87,16 @@ I'm a passionate developer with a focus on web development and a keen interest i
 
 ---
 
+### :trophy: My Achievements :
+
+<div align="center">
+  <a href="https://github.com/KaivanKeren">
+    <img src="https://github-profile-trophy.vercel.app/?username=KaivanKeren&theme=onedark&no-frame=true&row=1&column=7" alt="KaivanKeren's GitHub Trophies" />
+  </a>
+</div>
+
+---
+
 ### :mailbox: Get in Touch :
 
 <div align="center">
