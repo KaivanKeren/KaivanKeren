@@ -27,7 +27,7 @@ I'm a passionate developer with a focus on web development and a keen interest i
 ### 🛠️ Languages and Tools :
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nestjs,go,react,laravel,vue,tailwind,bootstrap,python,docker,git,github,jquery,mongodb,mysql,nginx,nodejs,npm,postgresql,debian,ubuntu" height="50" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nestjs,go,react,laravel,vue,tailwind,bootstrap,python,docker,git,github,jquery,mongodb,mysql,nginx,nodejs,npm,postgresql,debian,ubuntu" height="80" alt="Languages and Tools"/>
 </div>
 
 ---
