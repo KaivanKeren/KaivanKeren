@@ -17,8 +17,9 @@
 
 I'm a passionate **Full-Stack Developer** with a deep interest in web technologies, backend systems, and DevOps. I love building scalable applications, optimizing performance, and continuously learning new technologies.
 
+- 💬 Ask me about web development and tech trends
 - 🔭 I'm currently working on exciting web projects  
-- 🌱 Exploring **Cloud Computing, Kubernetes, and Microservices**  
+- 🌱 I'm always learning and exploring new technologies  
 - 💡 Enthusiast in **Open Source Contributions** and best practices in software architecture  
 - 👯 Looking to collaborate on **open-source projects**  
 - 💬 Ask me about **Web Development, Backend Systems, and Tech Trends**  
