@@ -19,8 +19,9 @@ I'm a passionate developer with a focus on web development and a keen interest i
 
 - 🚀 Currently working on exciting web projects
 - 🌱 Always learning and exploring new technologies
-- 🤝 Looking to collaborate on open-source projects
-- 💬 Ask me about web development and tech trends
+- 💡 Enthusiast in **Open Source Contributions** and best practices in software architecture  
+- 👯 Looking to collaborate on **open-source projects**  
+- 💬 Ask me about **Web Development, Backend Systems, and Tech Trends**  
 
 ---
 
