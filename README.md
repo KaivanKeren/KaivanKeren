@@ -132,7 +132,6 @@ I'm a passionate developer with a focus on web development and a keen interest i
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ---
 
 <div align="center">
