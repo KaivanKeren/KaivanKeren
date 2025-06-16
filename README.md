@@ -126,7 +126,7 @@ I'm a passionate developer with a focus on web development and a keen interest i
 
 ---
 
-### 📬 Github Contributions:
+### 🧱 Github Contributions:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaivanKeren/KaivanKeren/output/github-contribution-grid-snake-dark.svg">
