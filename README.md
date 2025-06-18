@@ -42,7 +42,7 @@ const ismail = {
 
 ### Backend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,go,python,cs" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,nestjs,php,laravel,go,python,cs" alt="Backend Technologies" />
 </p>
 
 ### Database & Cloud
@@ -52,7 +52,7 @@ const ismail = {
 
 ### Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,debian,ubuntu" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,debian,ubuntu" alt="Development Tools" />
 </p>
 
 </div>
