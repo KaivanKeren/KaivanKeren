@@ -42,7 +42,7 @@ const ismail = {
 
 ### Backend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,go,python,cpp" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,go,python,cs" alt="Backend Technologies" />
 </p>
 
 ### Database & Cloud
