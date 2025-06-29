@@ -31,7 +31,7 @@ const ismail = {
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
