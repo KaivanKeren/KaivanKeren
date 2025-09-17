@@ -23,10 +23,10 @@ const ismail = {
 };
 ```
 
-- 🔭 **Currently Working On:** Innovative web solutions and open-source contributions
-- 🌱 **Learning:** Advanced system design patterns and emerging technologies  
-- 🤝 **Open To:** Collaborating on impactful projects and mentoring developers
-- 💡 **Passionate About:** Clean code, performance optimization, and user experience
+- 🔭 **Currently Working On:** Innovative web solutions, open-source contributions, and exploring system architecture
+- 🌱 **Learning:** Advanced software design patterns, distributed systems, and emerging technologies  
+- 🤝 **Open To:** Collaborations on impactful projects and knowledge-sharing opportunities
+- 💡 **Passionate About:** Clean code practices, performance optimization, and user experience
 - 📫 **Reach Me:** [x.iml.7122@gmail.com](mailto:x.iml.7122@gmail.com)
 
 ---
@@ -35,27 +35,28 @@ const ismail = {
 
 <div align="center">
 
-### Frontend Development
+### Frontend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap&theme=dark" height="45" />
 </p>
 
 ### Backend Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=express,nodejs,nestjs,php,laravel,go,python,cs" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,nestjs,php,laravel,go,python,cs&theme=dark" height="45" />
 </p>
 
-### Database & Cloud
+### Database & Cloud  
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,nginx" alt="Database & Cloud Technologies" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,nginx&theme=dark" height="45" />
 </p>
 
-### Development Tools
+### Development Tools & IDE
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,debian,ubuntu" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,debian,ubuntu&theme=dark" height="45" />
 </p>
 
 </div>
+
 
 ---
 
