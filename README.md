@@ -91,7 +91,7 @@ const ismail = {
   <a href="mailto:x.iml.7122@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://ismail-skada.vercel.app" target="_blank">
+  <a href="https://ismail-dev.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/ismail-b6608833a" target="_blank">
