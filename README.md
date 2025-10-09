@@ -23,7 +23,7 @@ const ismail = {
 };
 ```
 
-- 🔭 **Currently Working On:** Innovative web solutions, open-source contributions, and exploring system architecture
+- 🔭 **Currently Working On:** Innovative web solutions, and exploring system architecture
 - 🌱 **Learning:** Advanced software design patterns, distributed systems, and emerging technologies  
 - 🤝 **Open To:** Collaborations on impactful projects and knowledge-sharing opportunities
 - 💡 **Passionate About:** Clean code practices, performance optimization, and user experience
