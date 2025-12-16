@@ -16,10 +16,9 @@
 ```javascript
 const ismail = {
     title: "Full Stack Developer",
-    location: "🌍 Remote",
+    location: "Indonesia",
     currentFocus: "Building scalable web applications",
     interests: ["Modern Web Development","Distributed Systems","Open Source", "System Architecture"],
-    motto: "Code with purpose, build with passion"
 };
 ```
 
